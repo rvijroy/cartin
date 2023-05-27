@@ -1,0 +1,6 @@
+[submodule "cartin-backend"]
+	path = cartin-backend
+	url = https://github.com/rvijroy/cartin-backend.git
+[submodule "cartin-frontend"]
+	path = cartin-frontend
+	url = https://github.com/rvijroy/cartin-frontend.git
